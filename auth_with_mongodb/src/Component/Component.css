@@ -1,0 +1,125 @@
+.card{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.card-img-top{
+    height: 340px;
+    width: 300px;
+}
+.card-title{
+    text-align: center;
+    align-items: center;
+    
+}
+.favorite{
+    border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(220, 0, 0, 1);
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(0, 0, 0, 0)
+    
+  );
+
+  box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.favorite:hover {
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.favorite:active {
+  box-shadow:
+    inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+
+.card-2{
+ margin-right: 20px;
+  margin-top: 10px;
+  
+}
+.header{
+  background-color: #287271;
+  
+}
+
+
+
+.navbar-brand{
+  height: 100px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  cursor: pointer;
+  font-weight: 600;
+  background-color: #287271;
+
+  
+  
+}
+.navbar{
+  height: 130px;
+  width: 170px;
+  margin-top: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: #287271;
+
+}
+.row-d-flex{
+  margin-top:30px;
+}
+.card-img-top{
+  width: 570px;
+}
+.card{
+  align-items: center;
+  /* text-align: center; */
+}
+.navigate-margin{
+  margin-top: 50px;
+  height: 60px;
+  
+}
+
+
+#rbd{
+  margin-top: 60px;
+}
+
+b{
+  font-size: larger;
+  /* color:#17273d; */
+  
+
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  
+
+}
+
+
+
+
+
+
+.container{
+  margin-bottom: 10px;
+  /* background-color: #287271; */
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+
+
